@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 
 :root {
@@ -37,7 +38,7 @@ body {
 }
 
 .botao {
-    font-family: "Crakra Petch", sans-serif;
+    font-family: "Chakra Petch", sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
